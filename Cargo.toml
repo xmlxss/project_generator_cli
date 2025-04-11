@@ -1,0 +1,10 @@
+[package]
+name = "project_generator_cli"
+version = "0.1.0"
+edition = "2025"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+dialoguer = "0.10"
+anyhow = "1.0"
+which = "4.3"
