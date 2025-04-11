@@ -32,7 +32,6 @@ This CLI tool quickly creates project scaffolds for frameworks like Symfony, Fla
     ```bash
     project_generator_cli rust my_project
 
-To Run without interactive prompts use --no-promts arg
+- **To Run without interactive prompts use `--no-promt` arg**
     ```bash
     project_generator_cli --no-prompt flask my_project
-
